@@ -23,7 +23,8 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 - 🌱 Exploring **AI agents, computer vision, and autonomous systems**
 - 💼 **CEO/Founder** of NexHaTech - All-in-one HR tech solutions
 - 🏆 **Grant Winner** - Dorahack Aptos Grant DAO S3 for BoneCLOB
-- 🎯 **Solana Hackathon Participant** - Colosseum Renaissance, Radar, Hyperdrive, Cypherpunk
+- 🎯 **Solana Hackathon Participant** - Colosseum Renaissance, Radar, Hyperdrive
+- 🎨 Creator of **Bone Shamans** NFT collection
 - 📫 Reach me: **nwankwojames7@gmail.com**
 
 ---
@@ -59,6 +60,7 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 
 ### **Design & Creativity**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Spline](https://img.shields.io/badge/Spline-FF3366?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTggMEw4IDE2TTAgOEwxNiA4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9zdmc+&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
 
@@ -103,7 +105,7 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 > AI-Powered Orderbook NFT Marketplace
 
 - 🥇 **Winner** - Dorahack Aptos Grant DAO S3
-- 📊 Fully automated NFT orderbook with AI Powered floor price prediction
+- 📊 Fully automated NFT orderbook with AI floor price prediction
 - 🤖 ML algorithms for informed trading decisions
 - 💼 **Tech:** AI/ML, Blockchain, Orderbook, React, Node.js
 
