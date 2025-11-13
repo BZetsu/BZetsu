@@ -23,8 +23,7 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 - 🌱 Exploring **AI agents, computer vision, and autonomous systems**
 - 💼 **CEO/Founder** of NexHaTech - All-in-one HR tech solutions
 - 🏆 **Grant Winner** - Dorahack Aptos Grant DAO S3 for BoneCLOB
-- 🎯 **Solana Hackathon Participant** - Colosseum Renaissance, Radar, Hyperdrive
-- 🎨 Creator of **Bone Shamans** NFT collection
+- 🎯 **Solana Hackathon Participant** - Colosseum Renaissance, Radar, Hyperdrive, Cypherpunk
 - 📫 Reach me: **nwankwojames7@gmail.com**
 
 ---
