@@ -100,7 +100,7 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 > AI-Powered Orderbook NFT Marketplace
 
 - 🥇 **Winner** - Dorahack Aptos Grant DAO S3
-- 📊 Fully automated NFT orderbook with AI floor price prediction
+- 📊 Fully automated NFT orderbook with AI Powered floor price prediction
 - 🤖 ML algorithms for informed trading decisions
 - 💼 **Tech:** AI/ML, Blockchain, Orderbook, React, Node.js
 
