@@ -19,7 +19,7 @@
 
 I'm a **full-stack developer and blockchain specialist** who takes ideas from concept to market. I build production-ready applications that solve real problems—from **AI-powered security systems** to **blockchain escrow platforms** serving real users on Solana mainnet.
 
-- 🔭 Currently building **Nexcrow** (Escrow on Solana), **Sentrii** (AI Security), and **Zee** (AI Agent)
+- 🔭 Currently building **Nexcrow** (Escrow on Solana), **Sentrii** (AI Powered Threat Detection and Asset Security System), and **Zee** (AI Agent)
 - 🌱 Exploring **AI agents, computer vision, and autonomous systems**
 - 💼 **CEO/Founder** of NexHaTech - All-in-one HR tech solutions
 - 🏆 **Grant Winner** - Dorahack Aptos Grant DAO S3 for BoneCLOB
