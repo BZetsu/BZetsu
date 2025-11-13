@@ -131,36 +131,6 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 
 ---
 
-## 🏆 Key Achievements
-
-```typescript
-const achievements = {
-  🚀 mainnetLaunches: ["Nexcrow Escrow Platform (2025)"],
-  🏅 grants: ["Dorahack Aptos Grant DAO S3 Winner"],
-  🎯 hackathons: [
-    "Colosseum Renaissance",
-    "Colosseum Radar",
-    "Solana Hyperdrive"
-  ],
-  🤝 partnerships: [
-    "Solana Foundation",
-    "Superteam NG"
-  ],
-  💼 leadership: [
-    "CEO/Founder - NexHaTech",
-    "Founder - Nexcrow",
-    "Founder - Sentrii",
-    "Creator - Zee AI Agent"
-  ],
-  🎨 creative: [
-    "Bone Shamans NFT Collection",
-    "Creation by Obsession Visual Narrative"
-  ]
-};
-```
-
----
-
 ## 💼 What I Do
 
 ```rust
