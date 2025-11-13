@@ -36,9 +36,11 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 
 ### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
+![ElizaOS](https://img.shields.io/badge/ElizaOS-0066FF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACYSURBVHgBnZLBDcIwDEUdRmAERmAERmADRmAERoANGIERGIERYAM2YARGqP+kVhQ1Tty+pFX8P/tZTgBgjDkA2AE4AjgBOAN4ALgCuAG4A3gCeAF4A/gA+AL4Bvjx+QX4Bfj1+Q34A/gL+Av4C/gb+Bv4B/gX+Bf4D/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4H/gf+B/4HzLdG+QAAAAASUVORK5CYII=&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -49,6 +51,7 @@ I'm a **full-stack developer and blockchain specialist** who takes ideas from co
 
 ### **Backend & Infrastructure**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
