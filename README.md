@@ -159,7 +159,7 @@ I'm always open to collaborating on interesting projects or discussing new oppor
 - 🌐 **Portfolio:** [jameszetsu.vercel.app](https://jameszetsu.vercel.app)
 - 📧 **Email:** nwankwojames7@gmail.com
 - 🐦 **X (Twitter):** [@Zets__u](https://x.com/Zets__u)
-- 💼 **LinkedIn:** [jameszetsu](https://linkedin.com/in/jameszetsu)
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/james-nwankwo-47394a231)
 - 💬 **Telegram:** [@Boneshamans](https://t.me/Boneshamans)
 - 📅 **Schedule a call:** [calendly.com/nwankwojames7/30min](https://calendly.com/nwankwojames7/30min)
 
